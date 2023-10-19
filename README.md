@@ -1,6 +1,6 @@
 # Tourist-Spot-Sentiment-Analysis-
 # Install this packages and import them
-import tkinter as tk
-from tkinter import ttk
-from tkinter import messagebox
-from textblob import TextBlob
+1) import tkinter as tk
+2) from tkinter import ttk
+3) from tkinter import messagebox
+4) from textblob import TextBlob
